@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-Passionate, full-stack software engineer with extensive experience in designing, building, testing and deploying applications using core web technologies to deliver high-performance end-user experience, optimized for all types of devices for a seamless experience, aligned with all web standards.
+Software Engineer with expertise in full-stack development, currently engineering solutions at EPAM Systems. Passionate about building scalable applications and creating engaging user experiences. Experienced in leading teams and architecting solutions for OTT platforms and enterprise applications.
 
 ---
 
@@ -63,7 +63,6 @@ Passionate, full-stack software engineer with extensive experience in designing,
 - **13Cabs Mobile App** - Developed React Native application with real-time tracking and payments
 
 ---
-
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-raghav)
