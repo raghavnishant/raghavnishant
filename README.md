@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Nishant Raghav
 
 <div align="center">
@@ -7,7 +5,9 @@
 </div>
 
 ## 🚀 About Me
-Software Engineer with expertise in full-stack development, currently engineering solutions at EPAM Systems. Passionate about building scalable applications and creating engaging user experiences. Experienced in leading teams and architecting solutions for OTT platforms and enterprise applications.
+Passionate, full-stack software engineer with extensive experience in designing, building, testing and deploying applications using core web technologies to deliver high-performance end-user experience, optimized for all types of devices for a seamless experience, aligned with all web standards.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +23,7 @@ Software Engineer with expertise in full-stack development, currently engineerin
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -37,24 +38,48 @@ Software Engineer with expertise in full-stack development, currently engineerin
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-## 📊 Statistics
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishant-raghav&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-raghav&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+## 💼 Professional Experience
+
+### Software Engineer II | EPAM Systems (Feb 2022 - Present)
+- **Frontend:** Developed and integrated interactive UIs using Next.js, Tailwind CSS, and Highcharts.js. Created business insights dashboards in Angular using Qlik Sense and Power BI.
+- **Backend:** Optimized APIs, managed content indexing with Azure, and deployed using GitHub Actions.
+- **Testing & Deployment:** Wrote unit and integration tests with Jest and Enzyme, automated deployments, and achieved 20% performance improvement with caching strategies.
+- **Collaboration:** Worked closely with designers, advised on UI/UX, and planned sprint tasks.
+
+### Tech Lead & Senior Software Engineer | NexGen IoT Solutions (Feb 2020 - Dec 2021)
+- Spearheaded the development of OTT platforms (e.g., Hoichoi, Aha), handling frontend and backend optimization.
+- Improved streaming performance, increased user traffic handling by 300%, and led to a 20% revenue boost with optimized subscription flows.
+
+### Software Engineer | Bytecodes, Australia (Jul 2018 - Aug 2019)
+- Built responsive UIs and backend APIs, designed visualization tools, and automated tests using Selenium and Puppeteer.
+
+---
 
 ## 🌟 Notable Projects
 - **Metrolinx Go Transit** - Built user interfaces and integrated Contentstack CMS using Next.js and Tailwind CSS
 - **Hoichoi & Aha OTT Platforms** - Led development of streaming platforms with subscription flows and payment integrations
 - **13Cabs Mobile App** - Developed React Native application with real-time tracking and payments
 
+---
+
+
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishant-raghav)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-raghav)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavnishant)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8361yT)
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nishant-raghav&color=blue" alt="Profile Views Counter"/>
 </div>
+
+---
+
+## 📄 My Resumes
+- [Version 1 - Comprehensive Experience](./resume/Nishant_Raghav_p1.pdf)
+- [Version 2 - Focused Skillset](./resume/Nishant_Raghav_p2.pdf)
+
+> *To see my detailed professional journey and projects, explore the resumes above!*
