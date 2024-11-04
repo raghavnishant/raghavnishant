@@ -1,60 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nishant Raghav 👋</h1>
+<h3 align="center">Full-Stack Software Engineer | Frontend Enthusiast | Data Visualization Specialist</h3>
 
-# 👋 Hi, I'm Nishant Raghav
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-Software Engineer with expertise in full-stack development, currently engineering solutions at EPAM Systems. Passionate about building scalable applications and creating engaging user experiences. Experienced in leading teams and architecting solutions for OTT platforms and enterprise applications.
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Testing & CI/CD
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-## 📊 Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishant-raghav&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-raghav&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-## 🌟 Notable Projects
-- **Metrolinx Go Transit** - Built user interfaces and integrated Contentstack CMS using Next.js and Tailwind CSS
-- **Hoichoi & Aha OTT Platforms** - Led development of streaming platforms with subscription flows and payment integrations
-- **13Cabs Mobile App** - Developed React Native application with real-time tracking and payments
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishant-raghav)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
+<p align="center">
+  <a href="mailto:rag.nishant006@gmail.com"><img src="https://img.shields.io/badge/Email-rag.nishant006@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/nishant-raghav/"><img src="https://img.shields.io/badge/LinkedIn-nishant--raghav-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/raghavnishant"><img src="https://img.shields.io/badge/GitHub-raghavnishant-24292e?style=flat-square&logo=github" /></a>
+  <a href="https://leetcode.com/u/user8361yT/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" /></a>
+</p>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant-raghav&color=blue" alt="Profile Views Counter"/>
+
+## 👨‍💻 About Me
+🌟 Passionate Full-Stack Developer with expertise in frontend and backend technologies.  
+🚀 Creating seamless digital experiences, optimizing performance, and integrating APIs for businesses and applications.  
+🌐 Extensive experience with cloud services, CI/CD, testing, and data visualization, building dynamic, high-performance apps.
+
+---
+
+## 🛠️ Technical Skills
+
+<div>
+  <strong>Languages:</strong> JavaScript, TypeScript, Node.js, Python  
+  <strong>Web Development:</strong> HTML5, CSS3, SASS, Tailwind CSS, JavaScript  
+  <strong>Frameworks & Libraries:</strong> React.js, Next.js, Angular, Express.js, Svelte  
+  <strong>Data Visualization:</strong> Highcharts, D3.js, NumPy, Pandas, Matplotlib, Seaborn  
+  <strong>Cloud & DevOps:</strong> AWS, Azure, GCP, Docker, Kubernetes, GitHub Actions, Jenkins  
+  <strong>Testing:</strong> Jest, Enzyme, Puppeteer, Selenium  
+  <strong>Tools & Methodology:</strong> Jira, Figma, Sketch, Confluence, Asana, Agile/Scrum, TDD  
 </div>
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer II | EPAM Systems (Feb 2022 - Present)
+- **Frontend:** Developed and integrated interactive UIs using Next.js, Tailwind CSS, and Highcharts.js. Created business insights dashboards in Angular using Qlik Sense and Power BI.
+- **Backend:** Optimized APIs, managed content indexing with Azure, and deployed using GitHub Actions.
+- **Testing & Deployment:** Wrote unit and integration tests with Jest and Enzyme, automated deployments, and achieved 20% performance improvement with caching strategies.
+- **Collaboration:** Worked closely with designers, advised on UI/UX, and planned sprint tasks.
+
+### Tech Lead & Senior Software Engineer | NexGen IoT Solutions (Feb 2020 - Dec 2021)
+- Spearheaded the development of OTT platforms (e.g., Hoichoi, Aha), handling frontend and backend optimization.
+- Improved streaming performance, increased user traffic handling by 300%, and led to a 20% revenue boost with optimized subscription flows.
+
+### Software Engineer | Bytecodes, Australia (Jul 2018 - Aug 2019)
+- Built responsive UIs and backend APIs, designed visualization tools, and automated tests using Selenium and Puppeteer.
+
+---
+
+## 📊 Notable Projects
+
+- **Metrolinx Go Transit & UP Express:** Developed customer-facing UIs, CMS integrations, and interactive visualizations for transit analytics.
+- **Aha & Hoichoi OTT Platforms:** Architected scalable backend, enhanced streaming performance, and developed user interfaces supporting millions of active users.
+- **Visualization Tool (ESG Metrics):** Created Highcharts-based tool to track Environmental, Social, and Governance (ESG) metrics, aiding data-driven decisions.
+
+---
+
+## 🎓 Education
+- **Bachelor of Engineering** | University of Huddersfield, UK (2012 - 2016)
+
+---
+
+## 🌐 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishant-raghav/)
+- 📂 [GitHub](https://github.com/raghavnishant)
+- 🎮 [LeetCode](https://leetcode.com/u/user8361yT/)
+
+---
+
+<!-- Add an animated banner or SVG icons here for additional personality! -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raghavnishant&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## 📄 My Resumes
+- [Version 1 - Comprehensive Experience](./Nishant_Raghav_p1.pdf)
+- [Version 2 - Focused Skillset](./Nishant_Raghav_p2.pdf)
+
+> *To see my detailed professional journey and projects, explore the resumes above!*
