@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-Software Engineer with expertise in full-stack development, currently engineering solutions at EPAM Systems. Passionate about building scalable applications and creating engaging user experiences. Experienced in leading teams and architecting solutions for OTT platforms and enterprise applications.
+Passionate, full-stack software engineer with extensive experience in designing, building, testing and deploying applications using core web technologies to deliver high-performance end-user experience, optimized for all types of devices for a seamless experience, aligned with all web standards.
 
 ---
 
