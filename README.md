@@ -32,6 +32,8 @@ Passionate, full-stack software engineer with extensive experience in designing,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Postgres](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=blue)
+![redis](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=red)
 
 ### Testing & CI/CD
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
@@ -42,7 +44,7 @@ Passionate, full-stack software engineer with extensive experience in designing,
 
 ## 💼 Professional Experience
 
-### Software Engineer II | EPAM Systems (Feb 2022 - Present)
+### Software Engineer III, II | EPAM Systems (Feb 2022 - Present)
 - **Frontend:** Developed and integrated interactive UIs using Next.js, Tailwind CSS, and Highcharts.js. Created business insights dashboards in Angular using Qlik Sense and Power BI.
 - **Backend:** Optimized APIs, managed content indexing with Azure, and deployed using GitHub Actions.
 - **Testing & Deployment:** Wrote unit and integration tests with Jest and Enzyme, automated deployments, and achieved 20% performance improvement with caching strategies.
