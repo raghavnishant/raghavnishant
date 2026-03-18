@@ -32,8 +32,8 @@ Passionate, full-stack software engineer with extensive experience in designing,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Postgres](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=blue)
-![redis](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=red)
+![Postgres](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Postgres&logoColor=blue)
+![redis](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=redis&logoColor=red)
 
 ### Testing & CI/CD
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
