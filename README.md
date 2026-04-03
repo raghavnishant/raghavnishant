@@ -1,8 +1,14 @@
-# Nishant Raghav &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+# Nishant Raghav 
+
+## &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-raghav)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavnishant)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8361yT)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rag.nishant006@gmail.com)
+
 
 ## 🚀 About Me
 Passionate, full-stack software engineer with extensive experience in designing, building, testing and deploying applications using core web technologies to deliver high-performance end-user experience, optimized for all types of devices for a seamless experience, aligned with all web standards.
@@ -136,20 +142,12 @@ Passionate, full-stack software engineer with extensive experience in designing,
 
 ## 🎓 Education
 
-🎓 **Bachelor of Engineering (ME)** — Second Class
+🎓 **Bachelor of Engineering ** 
 &nbsp;&nbsp;&nbsp;&nbsp;University of Huddersfield, United Kingdom
 
-🏫 **CBSE — 12th Science Stream (81%)**
+🏫 **CBSE — 12th Science Stream **
 &nbsp;&nbsp;&nbsp;&nbsp;Kendriya Vidyalaya AFS, India
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-raghav)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavnishant)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8361yT)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rag.nishant006@gmail.com)
 
 ## 📄 My Resumes
 - [Version 1 - Comprehensive Experience](./resume/Nishant_Raghav_p1.pdf)
