@@ -1,6 +1,10 @@
 <div align="center">
-  <h1>Nishant Raghav</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=2F81F7&background=FFFFFF00&width=500&center=true&lines=Full+Stack+Engineer;Cloud+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle"><h1>Nishant Raghav &nbsp;|&nbsp;</h1></td>
+      <td valign="middle"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=2000&color=2F81F7&background=FFFFFF00&width=400&height=45&center=false&vCenter=true&lines=Full+Stack+Engineer;Cloud+Engineer;Tech+Enthusiast" alt="Typing SVG" /></td>
+    </tr>
+  </table>
 </div>
 
 ## 📫 Connect With Me
