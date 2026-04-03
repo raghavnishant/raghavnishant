@@ -1,6 +1,8 @@
-# Nishant Raghav 
-
-## &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <h1>
+    Nishant Raghav &nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" style="vertical-align:middle;" />
+  </h1>
+</div>
 
 ## 📫 Connect With Me
 
