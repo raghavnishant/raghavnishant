@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>
-    Nishant Raghav &nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2F81F7&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" style="vertical-align:middle;" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&background=FFFFFF00&width=600&center=true&lines=Nishant+Raghav+|+Full+Stack+Developer;Nishant+Raghav+|+Software+Engineer;Nishant+Raghav+|+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 📫 Connect With Me
