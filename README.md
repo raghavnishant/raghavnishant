@@ -125,7 +125,7 @@ Passionate, full-stack software engineer with extensive experience in designing,
 
 
 ## 📄 My Resumes
-- [Version 1 - Comprehensive Experience](./resume/Nishant_Raghav_p1.pdf)
-- [Version 2 - Focused Skillset](./resume/Nishant_Raghav_p2.pdf)
+- [Version 1 - Comprehensive Experience](./resume/Nishant_Raghav_p2.pdf)
+- [Version 2 - Focused Skillset](./resume/Nishant_Raghav_p1.pdf)
 
 > *To see my detailed professional journey and projects, explore the resumes above!*
