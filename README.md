@@ -124,7 +124,7 @@ Passionate, full-stack software engineer with extensive experience in designing,
 &nbsp;&nbsp;&nbsp;&nbsp;Kendriya Vidyalaya AFS, India
 
 
-## 📄 My Resumes
-- /resume/Nishant_Raghav.pdf
+## 📄 Resume
+- ([Download my resume](./resume/Nishant_Raghav.pdf)
 
 > *To see my detailed professional journey and projects, explore the resumes above!*
