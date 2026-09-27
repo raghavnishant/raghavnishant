@@ -1,4 +1,3 @@
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="border:none;border-collapse:collapse;">
     <tr>
@@ -7,7 +6,7 @@
     </tr>
   </table>
 </div>
- 
+
 
 ## 📫 Connect With Me
 
@@ -16,14 +15,14 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8361yT)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rag.nishant006@gmail.com)
 
-
 ## 🚀 About Me
+
 Passionate, full-stack software engineer with extensive experience in designing, building, testing and deploying applications using core web technologies to deliver high-performance end-user experience, optimized for all types of devices for a seamless experience, aligned with all web standards.
 
 ---
- 
+
 # 🛠 Tech Stack
- 
+
 <table border="0" cellpadding="6" cellspacing="0">
   <tr>
     <td><b>Languages</b></td>
@@ -72,11 +71,12 @@ Passionate, full-stack software engineer with extensive experience in designing,
 </table>
  
 ---
- 
+
 
 ## 💼 Professional Experience
 
 ### 🏢 Software Engineer III / II — EPAM Systems
+
 📍 Gurugram, India &nbsp;|&nbsp; 🗓 Feb 2022 – Present
 
 **Projects:** Metrolinx, Go Transit, Up Express, Presto Card
@@ -91,6 +91,7 @@ Passionate, full-stack software engineer with extensive experience in designing,
 ---
 
 ### 🏢 Senior Software Engineer / Tech Lead — NexGen IOT Solutions
+
 📍 Gurugram, India &nbsp;|&nbsp; 🗓 Feb 2020 – Dec 2021
 
 **Projects:** HC-Revamp, Hoichoi, Aha, Myoutdoor
@@ -105,26 +106,26 @@ Passionate, full-stack software engineer with extensive experience in designing,
 
 ## 🌟 Notable Clients
 
-| Client | Project | Highlights |
-|---|---|---|
-| **Schneider Electric** | Company Website | End-to-end RAG pipeline — chunking, embedding, vector indexing & LLM prompt orchestration for intelligent asset search |
-| **Sequoia Capital** | Pathfinder | Seed funding initiative connecting founders to Sequoia's network for early-stage capital & mentorship |
-| **Novartis** | ESG Framework | Internal sustainability metrics platform aligned with corporate ESG commitments and data-driven decision-making |
-| **Metrolinx** | Transit Platform | Digital solution for train scheduling, booking & real-time updates across Canada's transit network |
-| **Aha / Hoichoi** | Streaming Service | OTT platform with adaptive streaming, regional content & personalized experiences for a global audience |
+| Client                 | Project           | Highlights                                                                                                             |
+| ---------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Schneider Electric** | Company Website   | End-to-end RAG pipeline — chunking, embedding, vector indexing & LLM prompt orchestration for intelligent asset search |
+| **Sequoia Capital**    | Pathfinder        | Seed funding initiative connecting founders to Sequoia's network for early-stage capital & mentorship                  |
+| **Novartis**           | ESG Framework     | Internal sustainability metrics platform aligned with corporate ESG commitments and data-driven decision-making        |
+| **Metrolinx**          | Transit Platform  | Digital solution for train scheduling, booking & real-time updates across Canada's transit network                     |
+| **Aha / Hoichoi**      | Streaming Service | OTT platform with adaptive streaming, regional content & personalized experiences for a global audience                |
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor of Engineering ** 
+🎓 **Bachelor of Engineering **
 &nbsp;&nbsp;&nbsp;&nbsp;University of Huddersfield, United Kingdom
 
 🏫 **CBSE — 12th Science Stream **
 &nbsp;&nbsp;&nbsp;&nbsp;Kendriya Vidyalaya AFS, India
 
-
 ## 📄 Resume
-- ([Download my resume](./resume/Nishant_Raghav.pdf)
 
-> *To see my detailed professional journey and projects, explore the resumes above!*
+- ([Download my resume](./Nishant_Raghav.pdf)
+
+> _To see my detailed professional journey and projects, explore the resumes above!_
