@@ -126,6 +126,6 @@ Passionate, full-stack software engineer with extensive experience in designing,
 
 ## 📄 Resume
 
-- ([Download my resume](./Nishant_Raghav.pdf)
+- [Download my resume](./Nishant_Raghav.pdf)
 
 > _To see my detailed professional journey and projects, explore the resumes above!_
